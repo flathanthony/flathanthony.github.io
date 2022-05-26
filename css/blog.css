@@ -1,0 +1,43 @@
+.center {
+    text-align: center;
+}
+
+#articles {
+    margin: auto auto;
+    width: 800px;
+    background-color: white;
+}
+
+.post {
+    display: flex;
+    justify-content: center;
+}
+
+.post {
+    padding: 20px 0px 20px 0px;
+    border-style: solid;
+    border-color: #011f4b;
+}
+
+#top-post {
+    border-width: 2px 2px 1px 2px;
+}
+
+.middle-post {
+    border-width: 1px 2px 1px 2px;
+}
+
+
+#bottom-post {
+    border-width: 1px 2px 2px 2px;
+}
+
+.blog-name {
+    width: 50%;
+    align-self: left;
+}
+
+.blog-description {
+    width: 50%;
+    align-self: left;
+}
